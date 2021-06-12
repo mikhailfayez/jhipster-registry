@@ -33,6 +33,7 @@
   "cli": {
     "packageManager": "npm",
     "packageManager": "npm",
+"packageManager": "npm",
 
     "test": "test"
   }
